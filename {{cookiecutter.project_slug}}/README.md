@@ -1,6 +1,6 @@
 ## About
 
-Welcome to {{cookicutter.project_slug}} !
+Welcome to {{cookiecutter.project_slug}} !
 
 ## Author
 
